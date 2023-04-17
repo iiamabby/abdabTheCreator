@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdabTheCreator
-- 👀 I’m interested in ... all things tech, recently i have found myself drawn to the possibilities of A.I and the expansion into the Metaverse
-- 🌱 I’m currently building ...  web apps using ASP.NET, Python and SQL, aswell as Games both for browser and console using JS and C#
+- 👀 I’m interested in ... all things tech, recently i have found myself drawn to the possibilities of A.I and containerizing everything.... 
+- 🌱 I’m currently building ...  Docker images, databases and algorithms 
 - 📫 How to reach me ... https://www.linkedin.com/in/abigail-crimlis-139153237/
 
 <!---
